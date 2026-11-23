@@ -1,0 +1,10 @@
+AUTO TRAIN MIL VA CO MO V3 - PHONG THU NGOAI TUYEN
+
+Mo GiaoDienMoPhong.py hoac build EXE bang GitHub Actions.
+Nhan nut "Phong thu" de mo ban do gia lap 4 nhan vat.
+Chon "Lua quai" va bam "MO PHONG" trong tung o nhan vat.
+Cac diem A-H, lo trinh, va so Skill se duoc cap nhat tren cua so phong thu.
+Nhat ky va cau hinh giu nguyen tu V2.
+
+CHU Y: Khong quet cua so Windows, khong gui phim/chuot, khong ket noi game, khong can thiep Anti-Cheat.
+Chua thu nghiem EXE tren Windows; build EXE tren GitHub Actions.
